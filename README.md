@@ -1,0 +1,2 @@
+# wordpress
+Test wordpress hosting
